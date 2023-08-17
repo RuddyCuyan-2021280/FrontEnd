@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #5DADE2;
+}
+.fecha{
+    color: black;
+}
+
+.form-register {
+    width: 900px;
+    background: #EAECEE;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+    border-radius: 10px;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #000;
+  }
+  
+  .controls {
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid;
+    font-family: 'calibri';
+    font-size: 15px;
+    outline-color: white;
+  }
+
+  .controlsDate {
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid;
+    font-family: 'calibri';
+    font-size: 15px;
+    outline-color: white;
+    
+  }
+   
+  .form-register .botons {
+    width: 100%;
+    background: #3150FF;
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px ;
+  }
